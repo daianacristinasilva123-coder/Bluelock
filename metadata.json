@@ -1,0 +1,6 @@
+{
+  "name": "Blue Lock RPG: Egoist Path",
+  "description": "RPG baseado no universo de Blue Lock com inteligência artificial para personagens, memória profunda, relacionamentos dinâmicos, partidas narradas minuto a minuto e evolução de atributos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
